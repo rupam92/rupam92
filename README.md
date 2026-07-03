@@ -21,6 +21,5 @@ An enthusiatic Fontend Developer passionate about crafting modern, responsive, a
    A Simple and fully functional calculator  built using HTML, CSS, and basic JavaScript logic.
 
 ---
-* Currently planning to built a comprehensive **Wedding Organizer App** to streamliine event management.
 
 
