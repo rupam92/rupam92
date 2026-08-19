@@ -6,13 +6,14 @@ An enthusiatic Fontend Developer passionate about crafting modern, responsive, a
 * **Frontend Developer Intern** (6 Months)
   * Hands-on Experience in building and optimizing Web Applications.
   * Collaborated with teams to implement responsive UI/UX designs using modern Frontend tools.
-  * Certificate completion coming up soon!
- 
+  * I’ve received my Certificate of Completion!
+    
 ### Skills & Technologies
 * **Core:** HTML5, CSS3, JavaScript(ES6+)
 * **Libraries & Frameworks:** React.js, Next.js
 * **Build Tools & Editors:** Vite, VSCode, Git, GitHub
-
+* **Language:** Python
+  
 ### Featured Projects
 * **Foodie Zone**
    A modern Web Application featuring an interactive food menu, designed with a focus on responsive layout and smooth user experience.
